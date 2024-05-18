@@ -2,7 +2,7 @@
 
 👋 Welcome to my GitHub Profile! 🚀
 
-Hey there! I'm Vincent Garcia, a Data Scientist with a passion for turning raw data into golden insights and a knack for blending creativity with technology. My journey is anything but conventional—it's a thrilling adventure from the melodic world of music production to the intricate dance of data science.
+Hey there! I'm Vincent, a Data Scientist with a passion for turning raw data into golden insights and a knack for blending creativity with technology. My journey is anything but conventional—it's a thrilling adventure from the melodic world of music production to the intricate dance of data science.
 
 🔭 My story begins with a deep love for music, where I spent countless hours crafting beats and melodies with tools like Ableton. This creative pursuit wasn't just a hobby; it was a way to connect with the world, to tell stories through sound. But as much as I loved the art of music, I found myself increasingly fascinated by the patterns and data behind it.
 
